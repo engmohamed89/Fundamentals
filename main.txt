@@ -15,4 +15,8 @@ void calc(int a, int b,int op){
     {
         sub(a,b);
     }
+    elseif(op == 3)
+    {
+        mul(a,b)
+    }
 }

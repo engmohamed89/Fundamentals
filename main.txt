@@ -1,0 +1,14 @@
+#include <iostream>
+#include <a
+using namespace std;
+
+int main()
+{
+   
+}
+
+void calc(int a, int b,int op){
+    if(op == 1){
+        sum(a,b);
+    }
+}

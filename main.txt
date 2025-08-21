@@ -11,4 +11,8 @@ void calc(int a, int b,int op){
     if(op == 1){
         sum(a,b);
     }
+    elseif (op==2)
+    {
+        sub(a,b);
+    }
 }
